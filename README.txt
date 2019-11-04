@@ -1,1 +1,3 @@
-Hello, welcome to my portfolio. My name is Natalie Harvey, I am a Computer Games Programming student at Staffordshire University. I am in my second year and hope to gain a placement job next year in the Games Industry.
+Hello, welcome to my portfolio. My name is Natalie Harvey, 
+I am a Computer Games Programming student at Staffordshire University. 
+I am in my second year and hope to gain a placement job next year in the Games Industry.
